@@ -53,7 +53,7 @@ devin-test-nakato/
 
 ```bash
 cd backend
-./mvnw spring-boot:run
+mvn spring-boot:run
 ```
 
 バックエンドは http://localhost:8080 で起動します。
