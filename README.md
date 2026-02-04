@@ -13,7 +13,7 @@
 
 ### バックエンド
 - Spring Boot 3.4
-- Java 21
+- Java 17
 - H2 Database（組み込み）
 - Spring Data JPA
 
